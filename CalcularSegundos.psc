@@ -1,4 +1,4 @@
-Algoritmo  CalcularSegundos
+Algoritmo CalcularSegundos
 	Definir cant Como Entero
 	Definir tipo Como Caracter
 	Imprimir "Que necesitas calcular?"
@@ -24,6 +24,4 @@ Algoritmo  CalcularSegundos
 		"m": Imprimir "Los minutos ingresados equivalen a: " cant * 60
 		De Otro Modo: Imprimir "No es una opción válida."
 	FinSegun
-	
-	
 FinAlgoritmo
